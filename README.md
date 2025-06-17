@@ -1,5 +1,7 @@
-# 💫 About Me:
-# Hi, I'm Vinko<br><br>- CS Student<br>
+# About Me:
+# Hi, I'm Vinko<br><br>
+- CS Student<br>
+- Stuttgart
 
 
 # 💻 Tech Stack:
