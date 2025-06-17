@@ -1,4 +1,3 @@
-# About Me:
 # Hi, I'm Vinko<br><br>
 - CS Student<br>
 - Stuttgart
@@ -17,4 +16,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vinkomrsic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
