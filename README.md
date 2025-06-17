@@ -8,8 +8,5 @@
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=vinkomrsic&theme=default&hide_border=false)<br/>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vinkomrsic&icon=0&color=0)](https://visitcount.itsvg.in)
