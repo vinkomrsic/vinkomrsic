@@ -1,6 +1,6 @@
 # Hi, I'm Vinko<br><br>
-- CS Student<br>
-- Stuttgart
+💾 Computer Science Student<br>
+📍 Stuttgart
 
 
 # 💻 Tech Stack:
@@ -8,7 +8,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vinkomrsic&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vinkomrsic&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinkomrsic&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
