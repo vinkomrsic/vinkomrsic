@@ -1,4 +1,4 @@
-# Hi, I'm Vinko<br><br>
+# Hi, I'm Vinko 🛰️<br><br>
 💾 Computer Science Student<br>
 📍 Stuttgart
 
