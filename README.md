@@ -19,10 +19,4 @@ Stuttgart, Germany
 
 ---
 
-## GitHub Stats
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vinkomrsic&theme=default&hide_border=false)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=vinkomrsic&icon=0&color=0)](https://visitcount.itsvg.in)
